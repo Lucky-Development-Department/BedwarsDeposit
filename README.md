@@ -2,20 +2,11 @@
 
 # Bedwars1058-Deposit
 
+
+
 `1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.20.6, 1.21`
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Parsa3323?label=Sponsor&logo=GitHub)
-![GitHub contributors](https://img.shields.io/github/contributors/Parsa3323/BedWars1058-Deposit?label=Contributors&logo=GitHub)
-![GitHub Releases](https://img.shields.io/github/downloads/Parsa3323/BedWars1058-Deposit/total?label=Downloads&logo=GitHub)
-![GitHub last commit](https://img.shields.io/github/last-commit/Parsa3323/BedWars1058-Deposit?label=Last%20Commit&logo=GitHub)
-![GitHub issues](https://img.shields.io/github/issues/Parsa3323/BedWars1058-Deposit?label=Open%20Issues&logo=GitHub)
-![GitHub repo size](https://img.shields.io/github/repo-size/Parsa3323/BedWars1058-Deposit?color=yellow&logo=github)
-![GitHub license](https://img.shields.io/github/license/Parsa3323/BedWars1058-Deposit?color=purple&logo=github)
-![Forks](https://img.shields.io/github/forks/Parsa3323/BedWars1058-Deposit?style=)
-</div>
 
-[//]: # (![Spigot Downloads]&#40;https://img.shields.io/spiget/downloads/PLUGIN_ID?color=blue&logo=spigot&#41;)
-[//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=Parsa3323&theme=github-dark&#41;)
 
 
 <div align="center">
