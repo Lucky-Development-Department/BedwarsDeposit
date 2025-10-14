@@ -9,7 +9,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
 [//]: # ([![S]&#40;https://img.shields.io/badge/Go_to-Spigot-yellow?style=for-the-badge&#41;]&#40;https://www.spigotmc.org/resources/advancedarmorstands.121022/&#41;)
 
