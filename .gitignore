@@ -1,0 +1,36 @@
+# Compiled class files
+target/
+bin/
+*.jar
+*.class
+
+# Maven/Gradle build files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+.gradle/
+.project
+.classpath
+.settings/
+
+# IDE-specific files
+.idea/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.log
+nbproject/
+*.form
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other
+temp/
+tmp/
