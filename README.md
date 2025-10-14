@@ -67,6 +67,7 @@ The `main.yml` configuration file allows you to enable or disable debugging.
 ```yaml
 # ──────────────────────────────────────────────────────────────
 #   Punch to deposit - By Parsa3323
+#   LN Modified by Molfordan
 # ──────────────────────────────────────────────────────────────
 #   This configuration file controls various aspects of the addon.
 #   Make sure to read the comments carefully before changing any settings.
@@ -83,9 +84,7 @@ The `main.yml` configuration file allows you to enable or disable debugging.
 # - FINER    → Even more detailed debugging logs.
 # - FINEST   → Maximum debugging details (may spam the console).
 # Default is INFO. Change only if needed for debugging purposes.
-log-level: FINE
-
-data-saving-method: SQLITE
+log-level: INFO
 
 # ──────────────────────────────────────────────────────────────
 
@@ -119,6 +118,11 @@ shift-click-on-chest-to-set: true
 # SET CHEST LOCATIONS ON PLAYER JOIN:
 # If enabled (true), all chest locations will be saved when the a player joins the server.
 set-chest-locations-on-join: true
+# ──────────────────────────────────────────────────────────────
+
+# DISPLAY ALL MAPS DURING PROCESSING:
+# If enabled (true), all maps will be displayed during processing.
+display-maps-processing: false
 
 ```
 
@@ -138,19 +142,6 @@ set-chest-locations-on-join: true
 
 <div align="center">
 
-# Contributors (Creator)
-
-<a href="https://github.com/Parsa3323/BedWars1058-Deposit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Parsa3323/BedWars1058-Deposit" />
-</a>
-
-# Plugin modified by Molfordan
-
-# Contributors to the modified version :
-
-<a href="https://github.com/Lucky-Development-Department/BedwarsDeposit/graphs/contributors">
-  <img src="https://contrib.rocks/imnage?repo=Lucky-Development-Department/BedwarsDeposit"/>
-</a>
 
 </div>
 
