@@ -27,10 +27,6 @@
 [//]: # ([![S]&#40;https://img.shields.io/badge/Go_to-PolyMart-green?style=for-the-badge&#41;]&#40;https://www.polymart.org/product/7829/advancedarmorstands&#41;)
 
 
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Parsa3323&repo=BedWars1058-Deposit&theme=dark)
-](https://github.com/Parsa3323/BedWars1058-Deposit)
-
-
 
 </div>
 
