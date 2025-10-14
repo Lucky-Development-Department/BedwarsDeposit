@@ -138,10 +138,18 @@ set-chest-locations-on-join: true
 
 <div align="center">
 
-# Contributors
+# Contributors (Creator)
 
 <a href="https://github.com/Parsa3323/BedWars1058-Deposit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Parsa3323/BedWars1058-Deposit" />
+</a>
+
+# Plugin modified by Molfordan
+
+# Contributors to the modified version :
+
+<a href="https://github.com/Lucky-Development-Department/BedwarsDeposit/graphs/contributors">
+  <img src="https://contrib.rocks/imnage?repo=Lucky-Development-Department/BedwarsDeposit"/>
 </a>
 
 </div>
