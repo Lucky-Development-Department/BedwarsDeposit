@@ -2,20 +2,13 @@
 
 # Bedwars1058-Deposit
 
+Version Supported
+
 `1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.20.6, 1.21`
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Parsa3323?label=Sponsor&logo=GitHub)
-![GitHub contributors](https://img.shields.io/github/contributors/Parsa3323/BedWars1058-Deposit?label=Contributors&logo=GitHub)
-![GitHub Releases](https://img.shields.io/github/downloads/Parsa3323/BedWars1058-Deposit/total?label=Downloads&logo=GitHub)
-![GitHub last commit](https://img.shields.io/github/last-commit/Parsa3323/BedWars1058-Deposit?label=Last%20Commit&logo=GitHub)
-![GitHub issues](https://img.shields.io/github/issues/Parsa3323/BedWars1058-Deposit?label=Open%20Issues&logo=GitHub)
-![GitHub repo size](https://img.shields.io/github/repo-size/Parsa3323/BedWars1058-Deposit?color=yellow&logo=github)
-![GitHub license](https://img.shields.io/github/license/Parsa3323/BedWars1058-Deposit?color=purple&logo=github)
-![Forks](https://img.shields.io/github/forks/Parsa3323/BedWars1058-Deposit?style=)
 </div>
 
-[//]: # (![Spigot Downloads]&#40;https://img.shields.io/spiget/downloads/PLUGIN_ID?color=blue&logo=spigot&#41;)
-[//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=Parsa3323&theme=github-dark&#41;)
+
 
 
 <div align="center">
@@ -25,10 +18,6 @@
 [//]: # ([![S]&#40;https://img.shields.io/badge/Go_to-Wiki-orange?style=for-the-badge&#41;]&#40;https://docs.advancedarmorstands.ir/&#41;)
 
 [//]: # ([![S]&#40;https://img.shields.io/badge/Go_to-PolyMart-green?style=for-the-badge&#41;]&#40;https://www.polymart.org/product/7829/advancedarmorstands&#41;)
-
-
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Parsa3323&repo=BedWars1058-Deposit&theme=dark)
-](https://github.com/Parsa3323/BedWars1058-Deposit)
 
 
 
@@ -67,6 +56,7 @@ The `main.yml` configuration file allows you to enable or disable debugging.
 ```yaml
 # ──────────────────────────────────────────────────────────────
 #   Punch to deposit - By Parsa3323
+#   LN Modified by Molfordan
 # ──────────────────────────────────────────────────────────────
 #   This configuration file controls various aspects of the addon.
 #   Make sure to read the comments carefully before changing any settings.
@@ -83,9 +73,7 @@ The `main.yml` configuration file allows you to enable or disable debugging.
 # - FINER    → Even more detailed debugging logs.
 # - FINEST   → Maximum debugging details (may spam the console).
 # Default is INFO. Change only if needed for debugging purposes.
-log-level: FINE
-
-data-saving-method: SQLITE
+log-level: INFO
 
 # ──────────────────────────────────────────────────────────────
 
@@ -119,6 +107,11 @@ shift-click-on-chest-to-set: true
 # SET CHEST LOCATIONS ON PLAYER JOIN:
 # If enabled (true), all chest locations will be saved when the a player joins the server.
 set-chest-locations-on-join: true
+# ──────────────────────────────────────────────────────────────
+
+# DISPLAY ALL MAPS DURING PROCESSING:
+# If enabled (true), all maps will be displayed during processing.
+display-maps-processing: false
 
 ```
 
@@ -138,11 +131,6 @@ set-chest-locations-on-join: true
 
 <div align="center">
 
-# Contributors
-
-<a href="https://github.com/Parsa3323/BedWars1058-Deposit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Parsa3323/BedWars1058-Deposit" />
-</a>
 
 </div>
 
